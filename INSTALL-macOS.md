@@ -8,17 +8,19 @@ For macOS 11 or later, on Apple silicon (M1 and later) or Intel.
 4. Open **System Settings › Privacy & Security**, scroll down to **Security**, and press **Open Anyway** beside
    OpenAnalyst-beta. Confirm with your password or Touch ID.
 
-That is needed once for each version. **Open Anyway** shows for about an hour after you try to open the app; if it isn't
+That is needed once for each version you download yourself. **Open Anyway** shows for about an hour after you try to open the app; if it isn't
 there, open the app once more and look again.
 On a Mac managed by an employer it may be turned off; ask them.
 
-**To update**, quit the app and replace it in Applications with the new one, then do steps 3 and 4 again. Settings and
-projects stay.
+**To update**: the app looks for a newer version when it starts and downloads it; choose **Restart to update**. (Settings ›
+Interface › Look for updates at start turns that off; Help › Check for updates… asks at once.) If it can't replace itself
+it links to the download: quit, replace the app in Applications, and do steps 3 and 4 again. Settings and projects stay.
 
 **To uninstall**, move the app to the Bin.
 
 This is a beta: keep copies of projects you can't make again. Maps, imagery and terrain come from the internet only when
-you ask for them, and their provider is sent the area asked for. There is no telemetry.
+you ask for them, and their provider is sent the area asked for. Looking for updates sends GitHub the app's version. There is
+no telemetry.
 
 By installing or using the app you agree to `LICENCE.txt`. The licences of the open-source parts are in
 `THIRD-PARTY-NOTICES.txt`. Both are also inside the app.
