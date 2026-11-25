@@ -1,0 +1,29 @@
+OpenAnalyst-beta licence
+
+Copyright (c) 2026 nukolas (https://github.com/nukolas). All rights reserved.
+
+By installing or using this app you agree to this licence.
+
+1. Use. You may install and use this app, free of charge, for personal or
+   business purposes. This licence is personal to you and can't be transferred.
+
+2. Limits. You may not share, sell, rent or publish the app, modify it, or
+   reverse engineer it, except where the law allows this regardless.
+
+3. Your data. Your projects, and anything you make with the app, are yours.
+
+4. Third parties. Open-source parts are under their own licences
+   (THIRD-PARTY-NOTICES.txt), which take precedence for those parts. Data from
+   online services is under its provider's terms.
+
+5. Beta. The app is provided as is, without warranty. Check results before
+   relying on them.
+
+6. Liability. As far as the law allows, the author isn't liable for any loss
+   arising from its use. Nothing here excludes rights that can't be excluded,
+   including under the Australian Consumer Law.
+
+7. Ending. This licence ends if you break it, or if the author withdraws it on
+   30 days' notice. Stop using the app and delete it.
+
+8. Law. The law of Tasmania, Australia, applies.
