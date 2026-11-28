@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshots/logo.png" width="200" alt="OpenAnalyst-beta's icon: a rock face of folded beds cut by three faults"></p>
+
 # OpenAnalyst-beta
 
 A 3D viewer and analysis app for geoscience data. It reads and writes `.geoh5` projects and runs on macOS, Windows and Linux,
